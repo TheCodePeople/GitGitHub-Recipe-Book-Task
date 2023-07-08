@@ -21,7 +21,7 @@ Welcome to the Recipe Book project! This repository is a collection of recipes c
 
 
 ## Contributed Recipes 👷🏽‍♂️
-- [Chocolate Chip Cookies](#) by @yourusername
+- [Chocolate Chip Cookies](https://github.com/ZhraaBaharAluloom/GitGitHub-Recipe-Book-Task/blob/main/chocolate-chip-cookies.md) by @ZhraaBaharAluloom
 
 
 ## Credits 💳
